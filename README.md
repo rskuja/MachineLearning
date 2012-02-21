@@ -38,4 +38,5 @@ With tour generation and ant colony optimization
 
 [info](http://www.scholarpedia.org/article/Ant_colony_optimization)
 
+---
 [more info about reinforcement learning](http://www.cse.iitm.ac.in/~cs670/book/the-book.html)
