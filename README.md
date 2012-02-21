@@ -1,5 +1,5 @@
-Machine Learning lab. works for University
-==========================================
+Machine Learning lab. works
+===========================
 
 Code written in python2 with numpy
 
